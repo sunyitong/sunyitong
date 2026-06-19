@@ -40,7 +40,7 @@ Currently, I am a Visiting Scholar at MIT CSAIL, working on smart textiles and b
 - `TVCG 2025` Reducing Light-Stimulation with Preserved Color Fidelity for VR Displays
 - `SIGGRAPH Asia 2024` Exploring Fungal Morphology Simulation and Dynamic Light Containment
 - `Computers & Graphics 2024` Executing Realistic Earthquake Simulations in Unreal Engine with Material Calibration
-- `ISMAR 2023` DeepMetricEye: Metric Depth Estimation in Periocular VR Imagery
+- `ISMAR 2023` [DeepMetricEye: Metric Depth Estimation in Periocular VR Imagery](https://doi.org/10.1109/ISMAR59233.2023.00058)
 
 ## Technical Range
 
