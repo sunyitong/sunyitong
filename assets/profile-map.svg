@@ -1,0 +1,60 @@
+<svg width="1200" height="420" viewBox="0 0 1200 420" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Yitong Sun research map</title>
+  <desc id="desc">A compact map of research strands across simulation, sensing, immersive systems, computational life, and interactive research infrastructure.</desc>
+  <rect width="1200" height="420" rx="28" fill="#0f172a"/>
+  <rect x="32" y="32" width="1136" height="356" rx="24" fill="#111827" stroke="#334155"/>
+  <text x="72" y="92" fill="#f8fafc" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="38" font-weight="700">Human-centred systems for simulation, sensing and interaction</text>
+  <text x="74" y="132" fill="#cbd5e1" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="18">Computational methods that make physical and bodily phenomena measurable, simulable and interactive.</text>
+
+  <g transform="translate(72 184)">
+    <rect width="204" height="126" rx="16" fill="#172554" stroke="#3b82f6"/>
+    <circle cx="34" cy="36" r="12" fill="#60a5fa"/>
+    <text x="58" y="42" fill="#eff6ff" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="18" font-weight="700">Simulation</text>
+    <text x="24" y="78" fill="#bfdbfe" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="14">Digital twins</text>
+    <text x="24" y="100" fill="#bfdbfe" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="14">Real-time modelling</text>
+  </g>
+
+  <g transform="translate(294 184)">
+    <rect width="204" height="126" rx="16" fill="#14532d" stroke="#22c55e"/>
+    <circle cx="34" cy="36" r="12" fill="#86efac"/>
+    <text x="58" y="42" fill="#f0fdf4" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="18" font-weight="700">Sensing</text>
+    <text x="24" y="78" fill="#bbf7d0" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="14">Wearables</text>
+    <text x="24" y="100" fill="#bbf7d0" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="14">Smart textiles</text>
+  </g>
+
+  <g transform="translate(516 184)">
+    <rect width="204" height="126" rx="16" fill="#581c87" stroke="#a855f7"/>
+    <circle cx="34" cy="36" r="12" fill="#c084fc"/>
+    <text x="58" y="42" fill="#faf5ff" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="18" font-weight="700">Immersion</text>
+    <text x="24" y="78" fill="#e9d5ff" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="14">XR perception</text>
+    <text x="24" y="100" fill="#e9d5ff" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="14">Human evaluation</text>
+  </g>
+
+  <g transform="translate(738 184)">
+    <rect width="204" height="126" rx="16" fill="#713f12" stroke="#f59e0b"/>
+    <circle cx="34" cy="36" r="12" fill="#fbbf24"/>
+    <text x="58" y="42" fill="#fffbeb" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="18" font-weight="700">Bio-simulation</text>
+    <text x="24" y="78" fill="#fde68a" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="14">Artificial life</text>
+    <text x="24" y="100" fill="#fde68a" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="14">Growth systems</text>
+  </g>
+
+  <g transform="translate(960 184)">
+    <rect width="168" height="126" rx="16" fill="#164e63" stroke="#06b6d4"/>
+    <circle cx="34" cy="36" r="12" fill="#67e8f9"/>
+    <text x="58" y="42" fill="#ecfeff" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="18" font-weight="700">Publishing</text>
+    <text x="24" y="78" fill="#a5f3fc" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="14">Interactive papers</text>
+    <text x="24" y="100" fill="#a5f3fc" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="14">Research tools</text>
+  </g>
+
+  <path d="M176 342H1024" stroke="#475569" stroke-width="2" stroke-linecap="round"/>
+  <circle cx="176" cy="342" r="5" fill="#60a5fa"/>
+  <circle cx="398" cy="342" r="5" fill="#86efac"/>
+  <circle cx="620" cy="342" r="5" fill="#c084fc"/>
+  <circle cx="842" cy="342" r="5" fill="#fbbf24"/>
+  <circle cx="1024" cy="342" r="5" fill="#67e8f9"/>
+  <text x="72" y="362" fill="#94a3b8" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="14">algorithm</text>
+  <text x="230" y="362" fill="#94a3b8" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="14">hardware</text>
+  <text x="390" y="362" fill="#94a3b8" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="14">interface</text>
+  <text x="552" y="362" fill="#94a3b8" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="14">user study</text>
+  <text x="728" y="362" fill="#94a3b8" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="14">research platform</text>
+</svg>
