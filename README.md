@@ -50,6 +50,7 @@ Currently, I am a Visiting Scholar at MIT CSAIL, working on smart textiles and b
 
 - Portfolio: <https://www.yitongsun.com>
 - GitHub: <https://github.com/sunyitong>
+- interactives: <https://interactives.pub>
 - Publications: <https://www.yitongsun.com/publications>
 - Google Scholar: <https://scholar.google.com/citations?user=_a4SWqgAAAAJ>
 - Contact: <hi@yitongsun.com>
