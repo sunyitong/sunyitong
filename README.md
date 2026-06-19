@@ -38,7 +38,7 @@ Currently, I am a Visiting Scholar at MIT CSAIL, working on smart textiles and b
 - `CHI 2026` !nteractivesPub: Redistributing Author and Reader Effort through Interactive Academic Authoring
 - `SIGGRAPH Asia 2025` Participatory Evolution of Artificial Life Systems via Semantic Feedback
 - `TVCG 2025` Reducing Light-Stimulation with Preserved Color Fidelity for VR Displays
-- `SIGGRAPH Asia 2024` Exploring Fungal Morphology Simulation and Dynamic Light Containment
+- `SIGGRAPH Asia 2024` [Exploring Fungal Morphology Simulation and Dynamic Light Containment](https://doi.org/10.1145/3680530.3695440)
 - `Computers & Graphics 2024` Executing Realistic Earthquake Simulations in Unreal Engine with Material Calibration
 - `ISMAR 2023` [DeepMetricEye: Metric Depth Estimation in Periocular VR Imagery](https://doi.org/10.1109/ISMAR59233.2023.00058)
 
