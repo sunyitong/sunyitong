@@ -16,10 +16,10 @@ I build systems that connect research questions with working software and hardwa
 
 | Project | What it is | Stack |
 | --- | --- | --- |
-| [DPDG-Env](https://github.com/sunyitong/DPDG-Env) | ISMAR 2023 research code for DeepMetricEye, a monocular VR periocular depth-estimation pipeline with a UE MetaHuman synthetic data environment. | PyTorch, Unreal Engine, MetaHuman |
-| [FungiLifeGame](https://github.com/sunyitong/FungiLifeGame) | SIGGRAPH Asia 2024 related fungal morphology simulation prototype using cellular automata and light-boundary containment ideas. | Rust, Bevy |
-| [OPSX](https://github.com/sunyitong/OPSX) | Open-source RP2040 replacement core board for the Polaroid SX-70 instant camera. | RP2040, MicroPython, PCB design |
-| [journal_nextjs](https://github.com/sunyitong/journal_nextjs) | Open publishing platform for interactive research papers, editorial review, collaborative authoring, and MDX documentation. | Next.js, TypeScript, Supabase, Prisma, Yjs |
+| [DeepMetricEye](https://github.com/sunyitong/DeepMetricEye) | ISMAR 2023 research code for monocular VR periocular depth estimation with a UE MetaHuman DPDG environment. | PyTorch, Unreal Engine, MetaHuman |
+| [FungalLight](https://github.com/sunyitong/FungalLight) | SIGGRAPH Asia 2024 related fungal morphology simulation prototype using cellular automata and dynamic light-containment ideas. | Rust, Bevy |
+| [OPSX-SX70](https://github.com/sunyitong/OPSX-SX70) | Open-source RP2040 replacement core board for the Polaroid SX-70 instant camera. | RP2040, MicroPython, PCB design |
+| [interactives.pub](https://github.com/sunyitong/interactives.pub) | Open publishing platform for interactive research papers, editorial review, collaborative authoring, and MDX documentation. | Next.js, TypeScript, Supabase, Prisma, Yjs |
 
 ## Research Links
 
